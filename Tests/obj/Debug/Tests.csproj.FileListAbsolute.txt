@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Project3\Project1\ConsoleApplication1\Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Project3\Project1\ConsoleApplication1\Tests\bin\Debug\Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Project3\Project1\ConsoleApplication1\Tests\bin\Debug\Tests.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Project3\Project1\ConsoleApplication1\Tests\obj\Debug\Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Project3\Project1\ConsoleApplication1\Tests\obj\Debug\Tests.pdb
